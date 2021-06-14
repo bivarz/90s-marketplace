@@ -8,8 +8,6 @@ function cartItems() {
 
 function Header() {
 
-
-
   return (
     <header>
       90s shop
